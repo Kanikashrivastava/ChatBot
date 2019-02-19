@@ -1,0 +1,69 @@
+body {
+    background-color: white;
+  }
+  
+  @media screen and (max-width: 592px) {
+    body {
+      background-color: white;
+    }
+  }
+
+
+.inp{
+    width:80%;
+    padding:10px;
+    border-radius:20px;
+    background-color: #bbb7b7;
+    color: black;
+    font-size: 15px;
+    bottom: 10px;
+    position: fixed;
+    left: 38px;
+}
+
+@media screen and (max-width: 592px) {
+    .inp {
+        left: 20px;
+        margin-right: 40px;
+        bottom: 55px;
+    }
+}
+
+.btn{
+    padding: 8px;
+    width:100px;
+    border-radius: 14px;
+    font-size: 20px;
+    bottom: 10px;
+    position: fixed;
+    right:98px;
+    border:1px solid gray;
+    display: block;
+}
+
+@media screen and (max-width: 992px) {
+    .btn {
+        position: fixed;
+        width: 80%;
+        left: 30px;
+        
+    }
+}
+
+.user{
+    color:white;
+    background-color: blue;
+    text-align: left;
+    font-size:24px;
+    border-radius: 5px;
+    padding: 10px;
+    width: 50px;
+}
+.bot{
+    color:black;
+    background-color: rgba(153, 149, 149, 0.301);
+    text-align: left;
+    font-size:24px;
+    padding: 10px;
+    border-radius: 5px;
+}
