@@ -2,10 +2,10 @@
 ## ChatBot
 
 
-### `clone it`
+### `clone this repo`
 
 Clone the project with the following command. <br>
-git clone https://github.com/Kanikashrivastava/missingChildrenApp.git
+git clone https://github.com/Kanikashrivastava/ChatBot.git
 
 ### `npm start`
 
